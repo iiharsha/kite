@@ -20,29 +20,29 @@ Ensure you have the following installed on your system:
 ### Installation
 
 First, clone the repository:
-$ git clone https://github.com/yourusername/kite-text-editor.git
-$ cd kite-text-editor
+'$ git clone https://github.com/yourusername/kite-text-editor.git'
+'$ cd kite-text-editor'
 
 ### Build the Text Editor
 On Linux/macOS
 Compile the text editor by running:
 
-$ make
+'$ make'
 
 ### On Windows
 Ensure you have MinGW or a similar environment installed. Compile the text editor by running:
 
-$ make
+'$ make'
 
 ### Install the Text Editor Globally(Linux/macOS)
 Run the following command to install the text editor globally:
 
-$ sudo make install
+'$ sudo make install'
 
 ### On Windows
 Run the following command to install the text editor globally:
 
-$ make install
+'$ make install'
 
 This will copy the 'kite' binary to the appropriate directory and make it executable from anywhere.
 
@@ -50,17 +50,17 @@ This will copy the 'kite' binary to the appropriate directory and make it execut
 ### Uninstall the Text Editor(Linux/macOS)
 To uninstall the text editor, run:
 
-$ sudo make uninstall
+'$ sudo make uninstall'
 
 ### On Windows
 To uninstall the text editor, run:
 
-$ make uninstall
+'$ make uninstall'
 
 ### Clean the Build
 To clean the build directory, run:
 
-$ make clean
+'$ make clean'
 
 
 ### Usage
@@ -68,11 +68,11 @@ After installation, you can run the text editor from anywhere:
 
 On Linux/macOS
 
-$ kite
+'$ kite'
 
 On Windows
 
-$ kite.exe
+'$ kite.exe'
 
 
 ## Acknowledgments
